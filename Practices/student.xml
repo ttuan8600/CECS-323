@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<student>
+	<firstname>Twan</firstname>
+	<lastname>Tran</lastname>
+	<major>Computer Science</major>
+	<favoritebooks>
+		<book1>
+			<title>Your Name</title>
+			<author>Makoto Shinkai</author>
+		</book1>
+		<book2>
+			<title>5cm per second</title>
+			<author>Makoto Shinkai</author>
+		</book2>
+	</favoritebooks>
+</student>
